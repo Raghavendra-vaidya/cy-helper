@@ -1,0 +1,22 @@
+{
+  "name": "cy-helper",
+  "version": "1.0.0",
+  "description": "helper for cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raghavendra-vaidya/cy-helper.git"
+  },
+  "author": "Raghavendra Vaidya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raghavendra-vaidya/cy-helper/issues"
+  },
+  "homepage": "https://github.com/Raghavendra-vaidya/cy-helper#readme",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
